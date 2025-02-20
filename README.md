@@ -1,2 +1,4 @@
-# Manual-testing
-Manual testing of the mobile app
+## Manual-testing
+
+Testing of the mobile application Notepad. 
+
